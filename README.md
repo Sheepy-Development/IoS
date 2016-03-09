@@ -1,6 +1,6 @@
 # iOSApp-LostTeam
 LostTeam App For iOS Coded By applqpak.
-
+**Note**: *Abandoned!*
 
 This app uses features from developer.apple.com.
 
