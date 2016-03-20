@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Application | Maintenance</title>
+    <title>BroCraftPE</title>
     <!-- Meta -->
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The BroCraftPE Application is not available Please come back later.">
     <!-- CSS -->
-    <link rel="stylesheet" href="./index files/bootstrap.min.css"> </head> <body>
+    <link rel="stylesheet" href="./index-files/bootstrap.min.css"> </head> <body>
     <div id="wrapper">
         <div class="container">
             <div class="row">
