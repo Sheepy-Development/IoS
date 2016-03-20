@@ -4,25 +4,24 @@
     <!-- Meta -->
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="The LEET forums are currently under maintenance. Please come back later.">
-    <link rel="shortcut icon" href="http://forum.leet.cc/favicon.ico">
+    <meta name="description" content="The BroCraftPE Application is not available Please come back later.">
     <!-- CSS -->
-    <link rel="stylesheet" href="./LEET _ Maintenance_files/bootstrap.min.css"> </head> <body>
+    <link rel="stylesheet" href="./index files/bootstrap.min.css"> </head> <body>
     <div id="wrapper">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <!-- Info --->
                     <h1>Sorry, we're undergoing maintenance.</h1>
-                    <h2 class="subtitle">We're currently working on the forums, please try again later.</h2><h2>
+                    <h2 class="subtitle">We're currently working on the application, please try again later.</h2><h2>
 					  <div class="form-group">
 					  </div>
           <!-- Links -->
           <br></h2><h1> Stay in touch. </h1>
-          <a href="http://twitter.com/leet_cc" <button="" type="submit" class="btn btn-theme">Twitter</a>
-          <a href="http://leet.cc/" <button="" type="submit" class="btn btn-theme">Website</a>
-          <a href="https://plus.google.com/+LEETSupport" <button="" type="submit" class="btn btn-theme">Google+</a>
-          <h1 class="credits">&lt;&gt; with &lt;3 by LEET, &nbsp; designed by Quantum.</h1>
+          <a href="http://twitter.com/brocraftpe" <button="" type="submit" class="btn btn-theme">Twitter</a>
+          <a href="brocraftpe.enjin.com" <button="" type="submit" class="btn btn-theme">Website</a>
+          <a href="https://plus.google.com/" <button="" type="submit" class="btn btn-theme">Google+</a>
+          <h1 class="credits">&lt;&gt; with &lt;3 by LEET, &nbsp; designed by Sheepy.</h1>
 					
 				</div>
 			</div>
